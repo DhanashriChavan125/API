@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <SpecFlowObsoleteCodeBehindFiles Remove="Features\BankSystem - Copy.feature.cs" />
+    <SpecFlowObsoleteCodeBehindFiles Remove="Features\CreateAccount - Copy.feature.cs" />
+    <SpecFlowObsoleteCodeBehindFiles Remove="Features\DeleteAccount - Copy.feature.cs" />
+    <SpecFlowObsoleteCodeBehindFiles Remove="Features\DepositToAccount - Copy.feature.cs" />
+    <SpecFlowObsoleteCodeBehindFiles Remove="Features\WithdrawFromAccount - Copy.feature.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="RestSharp" Version="108.0.3" />
+    <PackageReference Include="SpecFlow.NUnit" Version="3.9.74" />
+  </ItemGroup>
+
+</Project>

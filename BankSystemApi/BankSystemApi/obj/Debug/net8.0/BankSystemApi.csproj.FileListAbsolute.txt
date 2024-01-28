@@ -1,0 +1,13 @@
+D:\API\BankSystemApi\BankSystemApi\bin\Debug\net8.0\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+D:\API\BankSystemApi\BankSystemApi\bin\Debug\net8.0\BankSystemApi.deps.json
+D:\API\BankSystemApi\BankSystemApi\bin\Debug\net8.0\BankSystemApi.dll
+D:\API\BankSystemApi\BankSystemApi\bin\Debug\net8.0\BankSystemApi.pdb
+D:\API\BankSystemApi\BankSystemApi\obj\Debug\net8.0\BankSystemApi.csproj.AssemblyReference.cache
+D:\API\BankSystemApi\BankSystemApi\obj\Debug\net8.0\BankSystemApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\API\BankSystemApi\BankSystemApi\obj\Debug\net8.0\BankSystemApi.AssemblyInfoInputs.cache
+D:\API\BankSystemApi\BankSystemApi\obj\Debug\net8.0\BankSystemApi.AssemblyInfo.cs
+D:\API\BankSystemApi\BankSystemApi\obj\Debug\net8.0\BankSystemApi.csproj.CoreCompileInputs.cache
+D:\API\BankSystemApi\BankSystemApi\obj\Debug\net8.0\BankSystemApi.dll
+D:\API\BankSystemApi\BankSystemApi\obj\Debug\net8.0\refint\BankSystemApi.dll
+D:\API\BankSystemApi\BankSystemApi\obj\Debug\net8.0\BankSystemApi.pdb
+D:\API\BankSystemApi\BankSystemApi\obj\Debug\net8.0\ref\BankSystemApi.dll
